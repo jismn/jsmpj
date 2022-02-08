@@ -25,4 +25,5 @@
   		<!-- select memberId, memberName, adminck, money, point from book_member where memberId = #{memberId} and memberPw = #{memberPw} -->
   	
   	</select> 
+  	
   </mapper>
